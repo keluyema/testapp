@@ -1,0 +1,14 @@
+C:\Users\GOD\Desktop\TestAppXamarin\TestApp\bin\Debug\TestApp.dll
+C:\Users\GOD\Desktop\TestAppXamarin\TestApp\bin\Debug\TestApp.pdb
+C:\Users\GOD\Desktop\TestAppXamarin\TestApp\bin\Debug\nunit.framework.dll
+C:\Users\GOD\Desktop\TestAppXamarin\TestApp\bin\Debug\Xamarin.UITest.dll
+C:\Users\GOD\Desktop\TestAppXamarin\TestApp\bin\Debug\Xamarin.iOS.dll
+C:\Users\GOD\Desktop\TestAppXamarin\TestApp\bin\Debug\Mono.Security.dll
+C:\Users\GOD\Desktop\TestAppXamarin\TestApp\bin\Debug\Xamarin.iOS.pdb
+C:\Users\GOD\Desktop\TestAppXamarin\TestApp\bin\Debug\Xamarin.iOS.xml
+C:\Users\GOD\Desktop\TestAppXamarin\TestApp\bin\Debug\Mono.Security.pdb
+C:\Users\GOD\Desktop\TestAppXamarin\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\GOD\Desktop\TestAppXamarin\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+C:\Users\GOD\Desktop\TestAppXamarin\TestApp\obj\Debug\TestApp.dll
+C:\Users\GOD\Desktop\TestAppXamarin\TestApp\obj\Debug\TestApp.pdb
+C:\Users\GOD\Desktop\TestAppXamarin\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
